@@ -1,101 +1,90 @@
-# 👋 Namaste, I'm Hemant Sopan Patil
+# 👋 Hii! I'm Hemant Sopan Patil
 
-**MERN Stack Developer | Practicing DSA Daily | Focused on Backend & Problem Solving**
+**🚀 AI ML Developer | 🧩 DSA Enthusiast | 🛡️ Backend Focused**
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌐 Full Stack Developer (**MERN Stack**)
-- 🧠 Practicing **Data Structures and Algorithms (DSA)** daily
-- 🎓 Recent graduate, committed to discipline, consistency & growth
-- 💂 Preparing for **Armed Forces** roles alongside my tech career
-- ⚔️ Passionate about real-world problem-solving and backend design
-- 📩 **Ask me about:** Full Stack Development, DSA practice, backend logic, MERN Stack, preparation routines
+✨ **Full Stack Developer** – specializing in the **MERN Stack**  
+🧠 Practicing **Data Structures & Algorithms** daily (Java is my weapon of choice!)  
+🎓 Recent graduate – driven by **discipline**, **consistency**, and **self-growth**  
+🪖 Preparing for **Armed Forces** roles while pursuing my tech passion  
+⚙️ Obsessed with real-world problem solving & solid backend architecture  
+💬 **Ask Me About:** Full Stack Dev, backend design, DSA practice, learning strategies, discipline hacks
 
 ---
 
-## 🧠 Interests
+## 🎯 My Focus
 
-- 🤖 Artificial Intelligence
-- 🏛️ System Design
-- 🧘 Self-Discipline
-
----
-
-## 🛠️ Languages & Tools
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+- 🤖 **Artificial Intelligence**
+- 🏛️ **System Design**
+- 🧘 **Self-Discipline**
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemant210&show_icons=true&theme=radical" alt="Hemant's GitHub stats"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,java,git,vscode" />
 </p>
 
 ---
 
----
+## 📊 GitHub Stats
 
-## 🧰 Tech Stack
-
-**Frontend:** React, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Other:** Git, VS Code, REST APIs
-
----
-
-## ☕ Support My Journey
-
-> _"Discipline is choosing between what you want now and what you want most."_ – Abraham Lincoln  
-> _"Sometimes the elegant implementation is just a function."_ — John Carmack
-
-If you found my projects helpful or inspiring — leave a ⭐️ or connect with me!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemant210&show_icons=true&theme=tokyonight" alt="Hemant's GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Hemant210&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 📚 Learning Goals
 
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-patil-a73000321)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram)  
-[📧 Email](mailto:your-email@example.com)
+- 📌 **500+ LeetCode Problems** by end of 2025
+- 🧩 Master key DSA patterns: Two Pointers, Backtracking, Greedy
+- 🔄 Daily revision using spaced repetition & smart notes
 
 ---
 
-## 💻 DSA Practice Highlights
+## 💻 LeetCode Stats
 
-- 🗂️ Solving DSA problems daily on **LeetCode**
-- 🔍 Focus areas:
-  - Arrays, Strings, Linked Lists, Trees, Graphs
-  - Binary Search, Recursion, Sliding Window, Dynamic Programming
-- ⚙️ **Java** is my main language for DSA.
+[![LeetCode Card](https://leetcard.jacoblin.cool/Hemant2103?theme=dark&font=Baloo%20Bhai&ext=heatmap)](https://leetcode.com/u/Hemant2103/)
 
-**🎯 2025 Goals:**  
-✅ Solve **500+ LeetCode problems**  
-✅ Master core patterns: Two Pointers, Backtracking, Greedy  
-✅ Daily revision through notes and spaced repetition
+---
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Hemant2103?theme=dark&font=Baloo%20Bhai&ext=heatmap)](https://leetcode.com/u/Hemant2103/)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemant-patil-a73000321">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/Hemant-Hemant2103">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:Hemant-hemantpatil.2103@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📅 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemant210&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemant210&theme=tokyonight" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
-## 🤝 Here's a smile and handshake for every coder out there! 👋😄🤝  
-**Collaboration, kindness, and good vibes matter in tech and life!**
+## ✨ A Note for Every Coder
+
+> _"Discipline is choosing between what you want now and what you want most."_ – Abraham Lincoln  
+> _"Sometimes the elegant implementation is just a function."_ — John Carmack
+
+💙 **Thanks for stopping by!**  
+⭐️ _If you find my work inspiring, feel free to follow & star my repos!_
+
+---
