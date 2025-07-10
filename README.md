@@ -63,17 +63,21 @@
 
 ## 💻 LeetCode Stats & Practice
 
-✨ *"Consistency beats talent when talent doesn't work consistently."* ✨
+> ✨ *“Consistency beats talent when talent doesn’t work consistently.”* ✨
 
 <p align="center">
   <a href="https://leetcode.com/u/Hemant2103/">
-    <img src="https://leetcard.jacoblin.cool/Hemant2103?theme=unicorn&ext=heatmap&animation=true" alt="LeetCode Stats" />
-  </a>
-  <br/>
-    <a href="https://leetcode.com/u/Hemant2103/">
-    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://leetcard.jacoblin.cool/Hemant2103?theme=dark&font=Baloo%20Bhai&ext=heatmap&animation=true" alt="Hemant's LeetCode Stats" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Hemant2103/">
+    <img src="https://img.shields.io/badge/-Click_to_Visit_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</p>
+
+> 🔥 *Daily DSA practice — Java & core patterns: Arrays, Strings, Trees, Graphs & DP.*
 
 ---
 
@@ -89,8 +93,4 @@
 
 > _"Discipline is choosing between what you want now and what you want most."_ – Abraham Lincoln  
 > _"Sometimes the elegant implementation is just a function."_ — John Carmack
-
-💙 **Thanks for stopping by!**  
-⭐️ _If you find my work inspiring, feel free to follow & star my repos!_
-
 ---
