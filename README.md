@@ -17,9 +17,10 @@
 
 ## 🎯 My Focus
 
-- 🤖 **Artificial Intelligence**
-- 🏛️ **System Design**
-- 🧘 **Self-Discipline**
+- 🤖 **Artificial Intelligence & Machine Learning** — turning ideas into smart solutions
+- 🏛️ **System Design & Architecture** — building strong, scalable backends
+- 🔁 **DSA Mastery** — daily problem-solving to stay sharp & interview-ready
+- 🧘 **Self-Discipline & Growth** — because consistency beats talent every time
 
 ---
 
@@ -65,23 +66,17 @@
 
 ---
 
-## 💻 LeetCode Stats
+## 💻 LeetCode Stats & Practice
 
-[![LeetCode Card](https://leetcard.jacoblin.cool/Hemant2103?theme=dark&font=Baloo%20Bhai&ext=heatmap)](https://leetcode.com/u/Hemant2103/)
-
----
-
-## 🌐 Connect With Me
+✨ *"Consistency beats talent when talent doesn't work consistently."* ✨
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemant-patil-a73000321">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://leetcode.com/u/Hemant2103/">
+    <img src="https://leetcard.jacoblin.cool/Hemant2103?theme=unicorn&ext=heatmap&animation=true" alt="LeetCode Stats" />
   </a>
-  <a href="https://www.instagram.com/Hemant-Hemant2103">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:Hemant-hemantpatil.2103@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <br/>
+  <a href="https://leetcode.com/u/Hemant2103/">
+    <img src="https://img.shields.io/badge/Visit-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
@@ -90,7 +85,7 @@
 ## 📅 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemant210&theme=tokyonight" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemant210&theme=github-compact&area=true&hide_border=true&line=00BFFF&point=1DB954&color=7FDBFF&bg_color=0d1117" alt="GitHub Activity Graph"/>
 </p>
 
 ---
