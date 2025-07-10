@@ -28,12 +28,12 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,express,tensorflow,pytorch,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,DBMS,tensorflow,pytorch,bootstrap,AI,ML" />
 </p>
 
 ### 🗂️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb" />
 </p>
 
 ### ⚙️ Tools & Platforms
