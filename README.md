@@ -38,7 +38,7 @@
 
 ### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,docker,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=linux,git,LeetCode,vscode,docker,aws,gcp" />
 </p>
 
 ---
