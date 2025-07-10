@@ -28,7 +28,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,bootstrap,Artificial Intelligence,machine learning, deep learning" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,bootstrap,Artificial Intelligence,machine learning" />
 </p>
 
 ### 🗂️ Databases
