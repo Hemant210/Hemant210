@@ -26,14 +26,9 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 🧩 Languages
+### 🧩 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</p>
-
-### 🚀 Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,express,tensorflow,pytorch,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,bootstrap" />
 </p>
 
 ### 🗂️ Databases
@@ -75,8 +70,8 @@
     <img src="https://leetcard.jacoblin.cool/Hemant2103?theme=unicorn&ext=heatmap&animation=true" alt="LeetCode Stats" />
   </a>
   <br/>
-  <a href="https://leetcode.com/u/Hemant2103/">
-    <img src="https://img.shields.io/badge/Visit-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <a href="https://leetcode.com/u/Hemant2103/">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
