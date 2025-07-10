@@ -25,10 +25,9 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,scikitlearn,jupyter,bootstrap" />
 </p>
 
 ### 🗂️ Databases
@@ -38,7 +37,7 @@
 
 ### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,LeetCode,vscode,docker,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,docker,aws,gcp" />
 </p>
 
 ---
