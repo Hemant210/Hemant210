@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack & Tools
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,scikitlearn,jupyter,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,scikitlearn,bootstrap" />
 </p>
 
 ### 🗂️ Databases
