@@ -44,15 +44,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project         | Description                                                                              |
-|-----------------|------------------------------------------------------------------------------------------|
-| **Online Garage** | Full-featured MERN Stack project (Final year college project) with Admin Dashboard        |
-| **Job Portal**    | Advanced Recruiter + Employer Job Portal with Admin Management Dashboard                 |
-| **Portfolio**     | Personal portfolio website using HTML/CSS/JavaScript                                     |
-| **Fitness Tracker** | App to track workouts and daily fitness routines                                         |
-
 ---
 
 ## 🧰 Tech Stack
