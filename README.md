@@ -67,17 +67,17 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Hemant2103/">
-    <img src="https://leetcard.jacoblin.cool/Hemant2103?theme=unicorn&ext=heatmap&animation=true" alt="Hemant's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Hemant2103?theme=dark&font=Baloo%20Bhai&ext=heatmap&animation=true" alt="Hemant's LeetCode Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Hemant2103/">
-    <img src="https://img.shields.io/badge/-Visit My LeetCode Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/-Click_to_Visit_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </p>
 
-> 🔥 *Daily DSA practice in Java — Arrays, Strings, Trees, Graphs, DP & more!*
+> 🔥 *Daily DSA practice — Java & core patterns: Arrays, Strings, Trees, Graphs & DP.*
 
 ---
 
