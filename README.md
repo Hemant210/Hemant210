@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,java,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,tensorflow,pytorch,docker,kubernetes,linux,git,vscode,html,css,bootstrap,mysql,postgresql,sqlite,redis,graphql,aws,gcp" />
 </p>
 
 ---
