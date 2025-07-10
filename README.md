@@ -28,7 +28,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,DBMS,tensorflow,pytorch,bootstrap,AI,ML" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,bootstrap,Artificial Intelligence,machine learning, deep learning" />
 </p>
 
 ### 🗂️ Databases
@@ -38,7 +38,7 @@
 
 ### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,aws,gcp,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,docker,aws,gcp" />
 </p>
 
 ---
