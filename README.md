@@ -70,12 +70,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/Hemant2103/">
-    <img src="https://img.shields.io/badge/-Click_to_Visit_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-</p>
-
 > 🔥 *Daily DSA practice — Java & core patterns: Arrays, Strings, Trees, Graphs & DP.*
 
 ---
