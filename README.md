@@ -46,30 +46,18 @@
 
 <p align="center">
   <a href="https://github.com/Hemant210">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hemant210&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false&count_private=true&include_all_commits=true" alt="Hemant's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hemant210&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&count_private=true&include_all_commits=true" height="180" />
+  </a>
+  <a href="https://github.com/Hemant210">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant210&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" height="180" />
   </a>
 </p>
-
----
-
-## 🗂️ Most Used Languages
 
 <p align="center">
   <a href="https://github.com/Hemant210">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant210&layout=compact&theme=tokyonight&border_radius=15&hide_border=false" alt="Most Used Languages" />
+    <img src="https://streak-stats.demolab.com?user=Hemant210&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" height="180" />
   </a>
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://github.com/Hemant210">
-    <img src="https://streak-stats.demolab.com?user=Hemant210&theme=tokyonight&hide_border=false&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ## 🎯 Learning Goals
