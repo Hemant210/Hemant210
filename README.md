@@ -43,19 +43,18 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/Hemant210">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hemant210&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&count_private=true&include_all_commits=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hemant210&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Hemant210">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant210&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant210&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" height="180" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Hemant210">
-    <img src="https://streak-stats.demolab.com?user=Hemant210&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" height="180" />
+    <img src="https://streak-stats.demolab.com?user=Hemant210&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
   </a>
 </p>
 ---
