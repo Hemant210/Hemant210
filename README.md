@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Hemant Sopan Patil
+# 👋 Hi ! I'm Hemant Sopan Patil
 
 **🚀 AI/ML Developer | 🧩 DSA Enthusiast | 🛡️ Backend Specialist**
 
@@ -63,6 +63,9 @@
 ## 🎯 Learning Goals
 
 - 🗂️ **Solve 500+ LeetCode Problems** by 2025
+- 🔥 365 Days DSA Challenge — *No Zero Days!*
+- 🎖️ Crack top interview patterns
+- 📚 Learn by doing — *LeetCode > Theory*
 
 ---
 ## 💻 LeetCode Stats & Daily Practice
@@ -92,21 +95,6 @@
   - 🧩 Dynamic Programming
   - ♻️ Recursion & Backtracking
   - ⚙️ Stacks, Queues & Heaps
-
----
-
-### 🎯 Goals
-
-- 🔥 365 Days DSA Challenge — *No Zero Days!*
-- 🎖️ Crack top interview patterns
-- 📚 Learn by doing — *LeetCode > Theory*
-
----
-
-### 📌 Connect with Me
-
-- 👨‍💻 LeetCode: [Hemant2103](https://leetcode.com/u/Hemant2103/)
-- 🌱 GitHub DSA Repo: [DSA_Java](https://github.com/Hemant210/DSA_Java)
 
 ---
 
