@@ -63,8 +63,6 @@
 ## 🎯 Learning Goals
 
 - 🗂️ **Solve 500+ LeetCode Problems** by 2025
-- 🔍 Master essential DSA patterns: Two Pointers, Backtracking, Greedy
-- 🔄 Daily revision using smart notes & spaced repetition
 
 ---
 
