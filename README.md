@@ -65,18 +65,52 @@
 - 🗂️ **Solve 500+ LeetCode Problems** by 2025
 
 ---
-
-## 💻 LeetCode Stats & Practice
+## 💻 LeetCode Stats & Daily Practice
 
 > ✨ *“Consistency beats talent when talent doesn’t work consistently.”* ✨
 
+---
+
+### 📈 My LeetCode Progress
+
 <p align="center">
-  <a href="https://leetcode.com/u/Hemant2103/">
+  <a href="https://leetcode.com/u/Hemant2103/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Hemant2103?theme=dark&font=Baloo%20Bhai&ext=heatmap&animation=true" alt="Hemant's LeetCode Stats" />
   </a>
 </p>
 
-> 🔥 *Daily DSA practice — Java & core patterns: Arrays, Strings, Trees, Graphs & DP.*
+---
+
+### 🧠 Daily DSA Grind
+
+> 🚀 *One problem a day keeps the fear away!*
+
+- 🟡 **Language:** Java (Core + Patterns)
+- 🟢 **Focus Areas:**
+  - 🧮 Arrays & Strings
+  - 🌳 Trees & Graphs
+  - 🧩 Dynamic Programming
+  - ♻️ Recursion & Backtracking
+  - ⚙️ Stacks, Queues & Heaps
+
+---
+
+### 🎯 Goals
+
+- 🔥 365 Days DSA Challenge — *No Zero Days!*
+- 🎖️ Crack top interview patterns
+- 📚 Learn by doing — *LeetCode > Theory*
+
+---
+
+### 📌 Connect with Me
+
+- 👨‍💻 LeetCode: [Hemant2103](https://leetcode.com/u/Hemant2103/)
+- 🌱 GitHub DSA Repo: [DSA_Java](https://github.com/Hemant210/DSA_Java)
+
+---
+
+> 💬 *Let your code speak louder than words.*
 
 ---
 
