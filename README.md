@@ -93,6 +93,7 @@
   - 🧮 Arrays & Strings
   - 🌳 Trees & Graphs
   - ♻️ Recursion & Backtracking
+  - 🧩 Dynamic Programming,Hashmap
   - ⚙️ Stacks, Queues & Heaps
 
 ---
