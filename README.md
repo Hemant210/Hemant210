@@ -92,7 +92,6 @@
 - 🟢 **Focus Areas:**
   - 🧮 Arrays & Strings
   - 🌳 Trees & Graphs
-  - 🧩 Dynamic Programming
   - ♻️ Recursion & Backtracking
   - ⚙️ Stacks, Queues & Heaps
 
