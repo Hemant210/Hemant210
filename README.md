@@ -11,7 +11,6 @@
 🎓 Recent graduate, driven by **discipline**, **consistency**, and a relentless **growth mindset**  
 🪖 Preparing for **Armed Forces** roles while pursuing my tech career  
 ⚙️ Passionate about solving real-world problems with robust **backend systems**  
-💬 **Let’s connect!** Always up for chats about backend logic, DSA patterns, AI/ML, and discipline hacks
 
 ---
 
