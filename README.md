@@ -67,11 +67,6 @@
 - 📚 Learn by doing — *LeetCode > Theory*
 
 ---
-## 💻 LeetCode Stats & Daily Practice
-
-> ✨ *“Consistency beats talent when talent doesn’t work consistently.”* ✨
-
----
 
 ### 📈 My LeetCode Progress
 
