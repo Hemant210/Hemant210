@@ -84,11 +84,11 @@
 
 - 🟡 **Language:** Java (Core + Patterns)
 - 🟢 **Focus Areas:**
-   🧮 Arrays & Strings
-   🌳 Trees & Graphs
-   ♻️ Recursion & Backtracking
-   🧩 Dynamic Programming,Hashmap, Hashing
-   ⚙️ Stacks, Queues & Heaps
+   - 🧮 Arrays & Strings
+   - 🌳 Trees & Graphs
+   - ♻️ Recursion & Backtracking
+   - 🧩 Dynamic Programming,Hashmap, Hashing
+   - ⚙️ Stacks, Queues & Heaps
 
 ---
 
