@@ -9,7 +9,8 @@
 ✨ **Full Stack Developer** focused on the **MERN Stack** and cutting-edge **AI/ML applications**  
 🧠 Practicing **Data Structures & Algorithms** daily (Java is my primary weapon!)  
 🎓 Recent graduate, driven by **discipline**, **consistency**, and a relentless **growth mindset**  
-🪖 Preparing for **Armed Forces** roles while pursuing my tech career  
+🪖
+my tech career 
 ⚙️ Passionate about solving real-world problems with robust **backend systems**  
 
 ---
