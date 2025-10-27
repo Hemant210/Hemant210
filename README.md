@@ -11,7 +11,6 @@
 🎓 Recent graduate, driven by **discipline**, **consistency**, and a relentless **growth mindset** 
 ⚙️ Passionate about solving real-world problems with robust **backend systems**  
 
-
 ---
 
 ## 🎯 Focus Areas
