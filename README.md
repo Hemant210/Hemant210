@@ -1,7 +1,9 @@
 # 👋 Hi ! I'm Hemant Sopan Patil
 
 **🚀 AI/ML Developer | 🧩 DSA Enthusiast | 🛡️ Backend Specialist**
+
 ---
+
 ## 🧑‍💻 About Me
 
 ✨ **Full Stack Developer** focused on the **MERN Stack** and cutting-edge **AI/ML applications**  
