@@ -50,12 +50,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Hemant210">
-    <img src="https://streak-stats.demolab.com?user=Hemant210&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
-  </a>
-</p>
-
 ---
 
 ## 🎯 Learning Goals
