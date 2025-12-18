@@ -14,7 +14,6 @@
 
 ## 🎯 Focus Areas
 
-
 - 🤖 **Artificial Intelligence & Machine Learning** — building smart solutions
 - 🏛️ **System Design & Architecture** — crafting solid, scalable backends
 - 🔁 **DSA Mastery** — daily practice to stay sharp & interview-ready
