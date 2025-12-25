@@ -12,7 +12,6 @@
 ⚙️ Passionate about solving real-world problems with robust **backend systems**  
 
 ---
-
 ## 🎯 Focus Areas
 
 - 🤖 **Artificial Intelligence & Machine Learning** — building smart solutions
