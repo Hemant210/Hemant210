@@ -26,17 +26,17 @@
 ## 🛠️ Tech Stack & Tools
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,scikitlearn,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,bootstrap" />
 </p>
 
 ### 🗂️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 </p>
 
 ### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,docker,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
 </p>
 
 ---
