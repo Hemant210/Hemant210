@@ -2,7 +2,6 @@
 
 **🚀 AI/ML Developer | 🧩 DSA Enthusiast | 🛡️ Backend Specialist**
 
-
 ---
 
 ## 🧑‍💻 About Me
