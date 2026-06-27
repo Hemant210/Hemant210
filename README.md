@@ -1,111 +1,171 @@
-# 👋 Hi ! I'm Hemant Sopan Patil
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Hemant Sopan Patil**
 
-**🚀 AI/ML Developer | 🧩 DSA Enthusiast | 🛡️ Backend Specialist**
+<h3 align="center">
+🚀 Full Stack Developer • AI/ML Enthusiast • Backend Engineer • Java DSA Learner
+</h3>
 
----
-
-## 🧑‍💻 About Me
-
-✨ **Full Stack Developer** focused on the **MERN Stack** and cutting-edge **AI/ML applications**  
-🧠 Practicing **Data Structures & Algorithms** daily (Java is my primary weapon!)  
-🎓 Recent graduate, driven by **discipline**, **consistency**, and a relentless **growth mindset** 
-⚙️ Passionate about solving real-world problems with robust **backend systems**  
----
-
-## 🎯 Focus Areas
-
-- 🤖 **Artificial Intelligence & Machine Learning** — building smart solutions
-- 🏛️ **System Design & Architecture** — crafting solid, scalable backends
-- 🔁 **DSA Mastery** — daily practice to stay sharp & interview-ready
-- 🧘 **Self-Discipline & Growth** — consistency beats talent every time
-
----
-
-
-## 🛠️ Tech Stack & Tools
-### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tensorflow,pytorch,bootstrap" />
-</p>
-
-### 🗂️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
+Building scalable applications, solving challenging algorithms, and exploring the future of Artificial Intelligence.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 💫 About Me
+
+I'm a passionate software developer who enjoys turning ideas into real-world applications.
+
+My interests lie in **Backend Development**, **Artificial Intelligence**, and **Data structure and algorithms**, where I focus on writing clean, scalable, and maintainable code.
+
+I believe that **consistency beats intensity**, which is why I dedicate time every day to improving my problem-solving skills through Data Structures & Algorithms.
+
+### 🚀 Currently
+
+* 🔥 Building Full Stack Applications
+* 🤖 Exploring AI & Machine Learning
+* ⚙️ Learning System Design & Scalable Architectures
+* 💻 Solving DSA problems in Java every day
+* 🌱 Continuously improving through open-source contributions
+
+---
+
+# 🎯 Areas of Interest
+
+* 🤖 Artificial Intelligence & Machine Learning
+* ⚡ Backend Development
+* 🌐 Full Stack Web Development
+* 🏛️ System Design
+* ☁️ Cloud Computing
+* 📈 Software Architecture
+* 🧩 Data Structures & Algorithms
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
 <p align="center">
-  <a href="https://github.com/Hemant210">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hemant210&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Hemant210">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant210&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" height="180" alt="Top Languages" />
-  </a>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,bootstrap,tensorflow,pytorch" />
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman" />
 </p>
 
 ---
 
-## 🎯 Learning Goals
-
-- 🗂️ **Solve 500+ LeetCode Problems** by 2025
-- 🔥 365 Days DSA Challenge — *No Zero Days!*
-- 🎖️ Crack top interview patterns
-- 📚 Learn by doing — *LeetCode > Theory*
-
----
-
-### 📈 My LeetCode Progress
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://leetcode.com/u/Hemant2103/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Hemant2103?theme=dark&font=Baloo%20Bhai&ext=heatmap&animation=true" alt="Hemant's LeetCode Stats" />
-  </a>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hemant210&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant210&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🧠 Daily DSA Grind
-
-> 🚀 *One problem a day keeps the fear away!*
-
-- 🟡 **Language:** Java (Core + Patterns)
-- 🟢 **Focus Areas:**
-   - 🧮 Arrays & Strings
-   - 🌳 Trees & Graphs
-   - ♻️ Recursion & Backtracking
-   - 🧩 Dynamic Programming,Hashmap, Hashing
-   - ⚙️ Stacks, Queues & Heaps
-
----
-
-> 💬 *Let your code speak louder than words.*
-
----
-
-## 📅 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemant210&theme=github-compact&area=true&hide_border=true&line=00BFFF&point=1DB954&color=7FDBFF&bg_color=0d1117" alt="GitHub Activity Graph"/>
+
+<img src="https://streak-stats.demolab.com?user=Hemant210&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## ✨ Dev Quote for Every Coder
+# 📈 Activity Graph
 
-> _"Discipline is choosing between what you want now and what you want most."_ — Abraham Lincoln  
-> _"Sometimes the elegant implementation is just a function."_ — John Carmack
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemant210&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode Journey
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Hemant2103/">
+<img src="https://leetcard.jacoblin.cool/Hemant2103?theme=dark&font=Baloo+Bhai&ext=heatmap"/>
+</a>
+
+</p>
+
+### Current Focus
+
+* Arrays & Strings
+* HashMaps & Hashing
+* Linked Lists
+* Trees & Graphs
+* Dynamic Programming
+* Backtracking
+* Heaps & Priority Queue
+* Greedy Algorithms
+
+> **"One problem every day is better than one hundred someday."**
 
 ---
 
-## 🤝 Here's a Smile & Handshake for Every Coder! 👋😄🤝
+# 🎯 2026 Goals
 
-**Collaboration, kindness, and good vibes — they matter in tech and in life.**
+* 🚀 Solve **1000+ LeetCode Problems**
+* 🏆 Master Advanced DSA
+* 🧠 Learn Low-Level & High-Level System Design
+* 🌍 Contribute consistently to Open Source
+* ☁️ Learn Cloud & DevOps
+* 💼 Land a Software Engineer role at a top product company
 
 ---
+
+# 🌟 Philosophy
+
+> **"Success isn't built in a day. It's built daily."**
+
+I believe software engineering is a lifelong learning journey.
+
+Every project teaches something new.
+
+Every bug makes us better.
+
+Every challenge builds experience.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+
+* 🚀 Open Source Projects
+* 💡 AI/ML Applications
+* 🌐 Full Stack Development
+* ⚙️ Backend Engineering
+* 📚 DSA Discussions
+
+Let's build something amazing together!
+
+---
+
+<p align="center">
+
+### ⭐ *"Code. Learn. Build. Repeat."* ⭐
+
+</p>
