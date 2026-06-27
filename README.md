@@ -18,7 +18,7 @@ My interests lie in **Backend Development**, **Artificial Intelligence**, and **
 
 I believe that **consistency beats intensity**, which is why I dedicate time every day to improving my problem-solving skills through Data Structures & Algorithms.
 
-### 🚀 Currently
+# 🚀 Currently
 
 * 🔥 Building Full Stack Applications
 * 🤖 Exploring AI & Machine Learning
