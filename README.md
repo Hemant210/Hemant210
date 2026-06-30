@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Hemant Sopan Patil**
+# Hi, I'm **Hemant Sopan Patil**
 
 <h3 align="center">
 🚀 Full Stack Developer • AI/ML Enthusiast • Backend Engineer • Java DSA Learner
