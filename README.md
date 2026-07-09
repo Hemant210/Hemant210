@@ -18,6 +18,17 @@ My interests lie in **Backend Development**, **Artificial Intelligence**, and **
 
 I believe that **consistency beats intensity**, which is why I dedicate time every day to improving my problem-solving skills through Data Structures & Algorithms.
 
+👁 Profile Views: 1234
+🟨 LeetCode: Hemant2103
+👥 Followers: 25
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hemant210&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
+
+
 # 🚀 Currently
 
 * 🔥 Building Full Stack Applications
