@@ -3,6 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Hemant210&label=Visitors&color=blue&style=plastic) ![](https://komarev.com/ghpvc/?username=Hemant210&label=Profile%20Views&color=brightgreen&style=flat)
 
+  <a href="https://github.com/Hemant210">
+    <img src="https://komarev.com/ghpvc/?username=Hemant210&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  </a>
+
+
 <h3 align="center">
 🚀 Full Stack Developer • AI/ML Enthusiast • Backend Engineer • Java DSA Learner
 </h3>
