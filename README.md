@@ -1,5 +1,8 @@
 # Hi, I'm **Hemant Sopan Patil**
 
+
+![](https://komarev.com/ghpvc/?username=Hemant210&label=Visitors&color=blue&style=plastic) ![](https://komarev.com/ghpvc/?username=Hemant210&label=Profile%20Views&color=brightgreen&style=flat)
+
 <h3 align="center">
 🚀 Full Stack Developer • AI/ML Enthusiast • Backend Engineer • Java DSA Learner
 </h3>
@@ -8,7 +11,6 @@
 Building scalable applications, solving challenging algorithms, and exploring the future of Artificial Intelligence.
 </p>
 
-![](https://komarev.com/ghpvc/?username=Hemant210&label=Visitors&color=blue&style=plastic)
 ---
 
 # 💫 About Me
