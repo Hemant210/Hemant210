@@ -8,6 +8,7 @@
 Building scalable applications, solving challenging algorithms, and exploring the future of Artificial Intelligence.
 </p>
 
+![](https://komarev.com/ghpvc/?username=Hemant210&label=Visitors&color=blue&style=plastic)
 ---
 
 # 💫 About Me
@@ -17,17 +18,6 @@ I'm a passionate software developer who enjoys turning ideas into real-world app
 My interests lie in **Backend Development**, **Artificial Intelligence**, and **Data structure and algorithms**, where I focus on writing clean, scalable, and maintainable code.
 
 I believe that **consistency beats intensity**, which is why I dedicate time every day to improving my problem-solving skills through Data Structures & Algorithms.
-
-👁 Profile Views: 1234
-🟨 LeetCode: Hemant2103
-👥 Followers: 25
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hemant210&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
 
 # 🚀 Currently
 
